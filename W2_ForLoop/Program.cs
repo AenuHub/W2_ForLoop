@@ -49,7 +49,7 @@
 
 int oddTotal = 0;
 int evenTotal = 0;
-for (int i = 0; i < 120; i++)
+for (int i = 1; i < 120; i++)
 {
     if (i % 2 == 0)
     {
